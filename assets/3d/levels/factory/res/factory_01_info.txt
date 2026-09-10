@@ -1,0 +1,1 @@
+{'map_size_tx': 90, 'map_size_ty': 44, 'checkpoints': {'CP_START': {'position': [40, 248]}, 'CP_FIRST_CP': {'position': [232, 144]}}, 'triggers': {}, 'entities': {}}
