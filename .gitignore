@@ -1,0 +1,9 @@
+tmp/*
+build/*
+build-clang/*
+bin/*
+third-party/*
+src/tools/__pycache__/*
+.venv/*
+GBA-jam-2026.ffs_gui
+sync.ffs_db
