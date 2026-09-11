@@ -1,7 +1,6 @@
 tmp/*
 build/*
 build-clang/*
-bin/*
 third-party/*
 src/tools/__pycache__/*
 .venv/*
